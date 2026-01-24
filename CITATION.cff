@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying ASME Turbo Expo paper."
+authors:
+  - family-names: Ferrer-Vidal Espana-Heredia
+    given-names: Luis Estefano
+title: "REVISITING THE POLYTROPIC EFFICIENCY AND ITS PRACTICAL USE"
+version: 1.0.0
+date-released: 2026-01-01
