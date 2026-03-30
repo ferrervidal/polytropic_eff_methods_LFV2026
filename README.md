@@ -1,10 +1,9 @@
 # polytropic_eff_methods_GT2026
-Reference implementation accompanying ASME Turbo Expo 2026 paper on polytropic efficiency.
+Reference implementation accompanying ASME paper on polytropic efficiency.
 
 This repository contains reference Python code accompanying the paper:
 
-Ferrer-Vidal España-Heredia, L.E., "REVISITING THE POLYTROPIC EFFICIENCY AND ITS PRACTICAL USE," Proceedings of the ASME Turbo Expo 2026,
-Paper No. GT2026-177067.
+Ferrer-Vidal España-Heredia, L.E., "REVISITING THE POLYTROPIC EFFICIENCY AND ITS PRACTICAL USE,"
 
 ## Purpose
 
