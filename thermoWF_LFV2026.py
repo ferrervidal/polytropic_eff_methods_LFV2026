@@ -6,7 +6,7 @@ calculations for gas turbine performance modeling.
 This module provides a limited set of thermodynamic property functions
 and a minimal thermodynamic state container intended solely to support
 the illustrative polytropic efficiency formulations presented in the
-accompanying ASME Turbo Expo paper.
+accompanying paper.
 
 The implementation prioritizes clarity, transparency, and consistency
 with standard gas turbine performance modeling practice. It is not
