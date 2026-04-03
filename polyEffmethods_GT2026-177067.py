@@ -1,7 +1,7 @@
 """
 Reference implementation accompanying:
 
-Ferrer-Vidal España-Heredia, L.E., "REVISITING THE POLYTROPIC EFFICIENCY AND ITS PRACTICAL USE," 
+Ferrer-Vidal España-Heredia, L.E., "REVISITING THE POLYTROPIC EFFICIENCY AND ITS PRACTICAL USE". 
 
 This script demonstrates several commonly used implementations of
 polytropic efficiency for compressor performance calculations, including
@@ -20,7 +20,7 @@ See https://coolprop.org/ for installation and documentation.
 This code also requires the thermoWF_GT2026 module.
 """
 
-import thermoWF_GT2026 as th
+import thermoWF_LFV2026 as th
 from scipy.optimize import fsolve, newton
 import numpy as np
 from CoolProp.CoolProp import PropsSI as CP
